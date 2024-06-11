@@ -12,7 +12,7 @@
         Background="Transparent"
         WindowStyle="None">
 
-    <Border CornerRadius="5" Background="#0D0D0D">
+    <Border CornerRadius="5 5 0 0" Background="#0D0D0D">
         <!--Grid principal-->
         <Grid>
             <Grid.RowDefinitions>
